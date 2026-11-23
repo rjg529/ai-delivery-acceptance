@@ -2,7 +2,7 @@
 
 AI 交付验收标准方法论 · 配套工具与模板。
 
-配套文章：[同一个 AI：我让它做出两套生产系统，也陪它聊了十轮人生——差别就在这四个字](https://blog.csdn.net/weixin_46582222/article/details/170984856)
+配套文章：[同一个 AI：我让它做出两套生产系统，也陪它聊了十轮人生——差别就在这四个字](https://blog.csdn.net/weixin_46582222/article/details/170985624)
 
 ## 核心观点
 
